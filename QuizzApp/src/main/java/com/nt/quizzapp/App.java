@@ -1,5 +1,6 @@
 package com.nt.quizzapp;
 
+import com.nt.utils.MyStage;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
